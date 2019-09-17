@@ -5,6 +5,8 @@ Will you be matched with Rick or Morty? Probably not because it's a big universe
 
 How to:
 
-Clone repo
-Run npm install
-At command prompt run node server.js
+Clone repo.
+
+Run npm install.
+
+At command prompt run node server.js.

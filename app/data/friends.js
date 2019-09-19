@@ -1,3 +1,4 @@
+// data on friends
 var friendsInfo = [
 	{
 		name: 'Rick',

@@ -27,6 +27,10 @@ node server.js
 
 https://friend-finder-c-137.herokuapp.com/
 
+![Screenshot (8)](https://user-images.githubusercontent.com/51170844/74384688-b7b19580-4da6-11ea-8985-4afefe4bdc52.png)
+
+![Screenshot (10)](https://user-images.githubusercontent.com/51170844/74384694-bb451c80-4da6-11ea-8db7-5e981a69c827.png)
+
 ## Built With
 
 * Node.js
